@@ -1,0 +1,29 @@
+/* 
+    Document   : styles
+    Created on : Aug 16, 2012, 2:46:36 PM
+    Author     : sheathe
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+pre {
+font-family: mono;
+margin-left: 10%;
+margin-right: 10%;
+border: 1px solid #C5C5F6;
+background-color: #DBDBF7;
+padding: .5em;
+border-radius: 10px;
+}
+
+
+
